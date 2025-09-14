@@ -25,3 +25,10 @@ AI Engine: Azure OpenAI GPT model
 Document Parser: PyPDF2 for PDFs and python-docx for DOCX
 Output Display: Tabulated ranked candidates using tabulate
 Deployment: Easily deployable on Streamlit Cloud 
+
+📊 Output
+Ranked candidates displayed with columns:
+a) Candidate Name
+b) Match Score
+c) Key Matching Keywords
+d) Interactive UI to view and download results
